@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 ----
-Author: Okuhle Ndlebe 
+
 Date: 14 Feb 2022
 
 MacOS Users 
